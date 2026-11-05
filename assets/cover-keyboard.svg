@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Keyboard apps">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="700" cy="60" r="110" fill="#fff" opacity="0.08"/><circle cx="80" cy="360" r="90" fill="#fff" opacity="0.08"/>
+  <g fill="#fff" opacity="0.95">
+    <rect x="150" y="120" width="500" height="180" rx="20" fill="#0f172a" opacity="0.35"/>
+    <g fill="#fff">
+      <rect x="175" y="140" width="56" height="40" rx="8"/><rect x="243" y="140" width="56" height="40" rx="8"/><rect x="311" y="140" width="56" height="40" rx="8"/><rect x="379" y="140" width="56" height="40" rx="8"/><rect x="447" y="140" width="56" height="40" rx="8"/><rect x="515" y="140" width="56" height="40" rx="8"/>
+      <rect x="175" y="192" width="56" height="40" rx="8"/><rect x="243" y="192" width="56" height="40" rx="8"/><rect x="311" y="192" width="56" height="40" rx="8"/><rect x="379" y="192" width="56" height="40" rx="8"/><rect x="447" y="192" width="56" height="40" rx="8"/><rect x="515" y="192" width="56" height="40" rx="8"/>
+      <rect x="243" y="244" width="300" height="40" rx="8"/>
+    </g>
+  </g>
+  <text x="400" y="360" font-size="34" fill="#fff" text-anchor="middle" font-family="sans-serif" font-weight="bold">Type faster, privately</text>
+</svg>
