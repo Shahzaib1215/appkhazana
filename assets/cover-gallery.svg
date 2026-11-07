@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Gallery apps">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b3a8e"/><stop offset="1" stop-color="#a06cd5"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="710" cy="70" r="100" fill="#fff" opacity="0.08"/><circle cx="70" cy="350" r="90" fill="#fff" opacity="0.08"/>
+  <g transform="rotate(-4 600 220)">
+    <rect x="470" y="60" width="220" height="320" rx="22" fill="#0d1d38" stroke="#fff" stroke-opacity="0.3" stroke-width="2"/>
+    <rect x="486" y="80" width="188" height="270" rx="12" fill="#f5f7fb"/>
+    <rect x="494" y="88" width="86" height="80" rx="8" fill="#5b3a8e"/><rect x="588" y="88" width="86" height="80" rx="8" fill="#f0a92e"/>
+    <rect x="494" y="176" width="86" height="80" rx="8" fill="#1290c4"/><rect x="588" y="176" width="86" height="80" rx="8" fill="#e05d8a"/>
+    <rect x="494" y="264" width="86" height="80" rx="8" fill="#3b6cb8"/><rect x="588" y="264" width="86" height="80" rx="8" fill="#43b581"/>
+  </g>
+  <g fill="#fff"><circle cx="200" cy="150" r="70" fill="#fff" opacity="0.15"/><rect x="120" y="230" width="160" height="16" rx="8" opacity="0.9"/><rect x="120" y="256" width="110" height="12" rx="6" opacity="0.6"/></g>
+  <g fill="#fff"><rect x="120" y="90" width="150" height="32" rx="16" opacity="0.9"/><text x="195" y="111" text-anchor="middle" font-size="14" font-weight="bold" fill="#5b3a8e">No cloud needed</text></g>
+</svg>
