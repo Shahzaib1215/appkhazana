@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Email apps">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="700" cy="60" r="110" fill="#fff" opacity="0.08"/><circle cx="80" cy="360" r="90" fill="#fff" opacity="0.08"/>
+  <rect x="190" y="95" width="420" height="230" rx="18" fill="#fff"/>
+  <path d="M190 113 L400 250 L610 113" fill="none" stroke="#e2e8f0" stroke-width="10" stroke-linejoin="round"/>
+  <rect x="230" y="140" width="340" height="16" rx="8" fill="#7c3aed"/>
+  <rect x="230" y="172" width="280" height="12" rx="6" fill="#94a3b8"/>
+  <rect x="230" y="196" width="310" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="230" y="220" width="200" height="12" rx="6" fill="#cbd5e1"/>
+  <circle cx="640" cy="290" r="34" fill="#38bdf8"/><text x="640" y="302" font-family="sans-serif" font-size="30" fill="#fff" text-anchor="middle" font-weight="bold">3</text>
+</svg>
