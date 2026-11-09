@@ -240,7 +240,7 @@ body.ap{background:#fff;color:#1a1a1a;line-height:1.55}
 .ap-trust{display:flex;gap:8px;flex-wrap:wrap;padding:6px 0 30px}
 .ap-trust span{font-size:.82rem;font-weight:600;color:#333;background:#f2f3f5;padding:7px 14px;border-radius:20px}
 .ap-foot{border-top:1px solid #e8e8e8;padding:26px 0 90px;color:#666;font-size:.9rem}
-.ap-flogo{display:flex;align-items:center;gap:9px;font-size:1.15rem;font-weight:800;color:#111;margin-bottom:8px}
+.ap-flogo{display:flex;align-items:center;gap:9px;font-size:1.15rem;font-weight:800;color:#fff;margin-bottom:8px}
 .ap-flogo img{width:32px;height:32px;border-radius:8px}
 .ap-flogo span{color:#00a86b}
 .ap-foot-links{display:flex;gap:18px;flex-wrap:wrap;margin:14px 0}
