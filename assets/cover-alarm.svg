@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Alarm clock apps">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#ef4444"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="700" cy="60" r="110" fill="#fff" opacity="0.08"/><circle cx="80" cy="360" r="90" fill="#fff" opacity="0.08"/>
+  <g>
+    <path d="M300 118 L268 82" stroke="#fff" stroke-width="16" stroke-linecap="round"/>
+    <path d="M500 118 L532 82" stroke="#fff" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="400" cy="225" r="120" fill="#fff"/>
+    <circle cx="400" cy="225" r="104" fill="none" stroke="#f59e0b" stroke-width="6"/>
+    <path d="M400 225 L400 155" stroke="#1e293b" stroke-width="10" stroke-linecap="round"/>
+    <path d="M400 225 L458 258" stroke="#1e293b" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="400" cy="225" r="10" fill="#ef4444"/>
+    <path d="M352 345 L332 372 M448 345 L468 372" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <circle cx="640" cy="290" r="34" fill="#fff"/><text x="640" y="302" font-family="sans-serif" font-size="30" fill="#ef4444" text-anchor="middle" font-weight="bold">5</text>
+</svg>
