@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="E-book reader apps">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d4e5f"/><stop offset="1" stop-color="#2f9e7e"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="700" cy="60" r="110" fill="#fff" opacity="0.1"/><circle cx="80" cy="360" r="90" fill="#fff" opacity="0.1"/>
+  <g>
+    <path d="M400 80 C360 55 300 55 270 80 L270 300 C300 275 360 275 400 300 C440 275 500 275 530 300 L530 80 C500 55 440 55 400 80 Z" fill="#fff"/>
+    <path d="M400 80 L400 300" stroke="#2f9e7e" stroke-width="6"/>
+    <path d="M295 120 H375 M295 150 H375 M295 180 H360" stroke="#5d6c84" stroke-width="8" stroke-linecap="round"/>
+    <path d="M425 120 H505 M425 150 H505 M425 180 H440" stroke="#5d6c84" stroke-width="8" stroke-linecap="round"/>
+    <path d="M295 225 H375 M425 225 H505" stroke="#2f9e7e" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="370" text-anchor="middle" font-size="30" font-weight="bold" fill="#fff">Read Anywhere · Free</text>
+</svg>
