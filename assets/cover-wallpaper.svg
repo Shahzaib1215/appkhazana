@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Wallpapers">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f3b4c"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="700" cy="60" r="110" fill="#fff" opacity="0.08"/><circle cx="80" cy="360" r="90" fill="#fff" opacity="0.08"/>
+  <g transform="rotate(8 580 210)">
+    <rect x="500" y="110" width="170" height="240" rx="20" fill="#fff"/>
+    <rect x="514" y="128" width="142" height="170" rx="10" fill="#f97316"/>
+    <circle cx="585" cy="165" r="22" fill="#fde68a"/>
+    <path d="M514 298 L560 220 L600 268 L630 232 L656 298 Z" fill="#0f3b4c"/>
+    <path d="M514 298 L545 248 L575 298 Z" fill="#155e75"/>
+    <rect x="514" y="312" width="142" height="10" rx="5" fill="#e2e8f0"/>
+  </g>
+  <g transform="rotate(-6 220 210)">
+    <rect x="140" y="110" width="170" height="240" rx="20" fill="#fff"/>
+    <rect x="154" y="128" width="142" height="170" rx="10" fill="#7c3aed"/>
+    <circle cx="225" cy="175" r="26" fill="#f0abfc"/>
+    <circle cx="265" cy="150" r="12" fill="#fff" opacity="0.7"/>
+    <path d="M154 298 L200 215 L245 272 L275 240 L296 298 Z" fill="#312e81"/>
+    <rect x="154" y="312" width="142" height="10" rx="5" fill="#e2e8f0"/>
+  </g>
+  <circle cx="400" cy="90" r="14" fill="#f0a92e"/><circle cx="440" cy="60" r="8" fill="#fff" opacity="0.6"/>
+</svg>

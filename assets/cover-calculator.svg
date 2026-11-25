@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Calculator apps">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#6366f1"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="700" cy="60" r="110" fill="#fff" opacity="0.08"/><circle cx="80" cy="360" r="90" fill="#fff" opacity="0.08"/>
+  <g>
+    <rect x="300" y="60" width="200" height="300" rx="24" fill="#fff"/>
+    <rect x="324" y="84" width="152" height="56" rx="10" fill="#e0e7ff"/>
+    <text x="456" y="122" font-family="sans-serif" font-size="30" fill="#1e293b" text-anchor="end" font-weight="bold">128 × 4</text>
+    <g fill="#6366f1">
+      <rect x="324" y="156" width="44" height="40" rx="8"/>
+      <rect x="380" y="156" width="44" height="40" rx="8"/>
+      <rect x="436" y="156" width="44" height="40" rx="8"/>
+    </g>
+    <g fill="#e0e7ff">
+      <rect x="324" y="208" width="44" height="40" rx="8"/>
+      <rect x="380" y="208" width="44" height="40" rx="8"/>
+      <rect x="436" y="208" width="44" height="40" rx="8"/>
+      <rect x="324" y="260" width="44" height="40" rx="8"/>
+      <rect x="380" y="260" width="44" height="40" rx="8"/>
+      <rect x="436" y="260" width="44" height="40" rx="8"/>
+    </g>
+    <g fill="#f59e0b">
+      <rect x="324" y="312" width="44" height="40" rx="8"/>
+      <rect x="380" y="312" width="44" height="40" rx="8"/>
+      <rect x="436" y="312" width="44" height="40" rx="8"/>
+    </g>
+    <g font-family="sans-serif" font-size="22" fill="#fff" text-anchor="middle" font-weight="bold">
+      <text x="346" y="184">C</text><text x="402" y="184">±</text><text x="458" y="184">%</text>
+    </g>
+    <g font-family="sans-serif" font-size="22" fill="#1e293b" text-anchor="middle" font-weight="bold">
+      <text x="346" y="236">7</text><text x="402" y="236">8</text><text x="458" y="236">9</text>
+      <text x="346" y="288">4</text><text x="402" y="288">5</text><text x="458" y="288">6</text>
+    </g>
+    <g font-family="sans-serif" font-size="22" fill="#fff" text-anchor="middle" font-weight="bold">
+      <text x="346" y="340">1</text><text x="402" y="340">2</text><text x="458" y="340">3</text>
+    </g>
+  </g>
+  <circle cx="640" cy="290" r="34" fill="#fff"/><text x="640" y="302" font-family="sans-serif" font-size="30" fill="#6366f1" text-anchor="middle" font-weight="bold">5</text>
+</svg>

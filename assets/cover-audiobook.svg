@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Audiobook apps">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b3a8e"/><stop offset="1" stop-color="#2f9e7e"/></linearGradient></defs>
+  <rect width="800" height="420" fill="url(#g)"/>
+  <circle cx="700" cy="60" r="110" fill="#fff" opacity="0.1"/><circle cx="80" cy="360" r="90" fill="#fff" opacity="0.1"/>
+  <g>
+    <path d="M400 90 a110 110 0 0 1 110 110" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+    <path d="M400 90 a110 110 0 0 0 -110 110" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+    <rect x="270" y="185" width="52" height="90" rx="22" fill="#fff"/>
+    <rect x="478" y="185" width="52" height="90" rx="22" fill="#fff"/>
+    <rect x="330" y="215" width="140" height="60" rx="14" fill="#fff" opacity="0.9"/>
+    <path d="M360 232 L360 258 M385 228 L385 262 M410 235 L410 255 M435 228 L435 262" stroke="#5b3a8e" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="370" text-anchor="middle" font-size="30" font-weight="bold" fill="#fff">Listen Free · Anywhere</text>
+</svg>
